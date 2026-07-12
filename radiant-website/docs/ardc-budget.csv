@@ -1,0 +1,19 @@
+Category,Item,Description,Unit Cost (USD),Quantity,Total (USD),Notes
+Infrastructure,Cloud VM (12 months),Ubuntu VM with static IP for DTN ground station,$100,12,$1200,Hosting provider TBD (e.g. Hetzner/DigitalOcean)
+Equipment,SDR receiver,RTL-SDR or similar for link monitoring,$50,1,$50,
+Equipment,UHF/VHF antenna system,Ground station antenna for satellite link testing,$1500,1,$1500,Yagi or crossed dipole
+Equipment,Cables and connectors,Coax / adapters / mounting hardware,$200,1,$200,
+Equipment,Raspberry Pi or similar,Field-deployable DTN node for testing,$250,1,$250,Optional second node
+Travel,Conference presentation,AMSAT-UK Colloquium or AMSAT Symposium,$1500,1,$1500,Registration + travel + accommodation
+Documentation,Hosting and materials,Website hosting / diagrams / video production,$500,1,$500,
+Indirect,Organisation overhead (15%),Administration / banking / reporting,$780,1,$780,15% of direct costs
+,,,,,,
+,,,,,TOTAL,$5980,
+,,,,,,
+Personnel (voluntary - not charged to grant),,,,,,
+Volunteer,David Johnson G4DPZ,Software development and integration (8 months part-time),Voluntary,1,$0,~15 hrs/week
+,,,,,,
+In-kind contributions (not charged to grant),,,,,,
+In-kind,AMSAT-UK,Ground station infrastructure and volunteer testing,In-kind,,-,Existing equipment
+In-kind,AMSAT-DL,European ground station node hosting and testing,In-kind,,-,Existing equipment
+In-kind,Goonhilly Earth Station,Technical advisory and potential antenna time,In-kind,,-,Commercial partner

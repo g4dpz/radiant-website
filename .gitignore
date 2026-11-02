@@ -1,2 +1,10 @@
-cislunar_proposal
-radiant-website/dist/
+# Build / packaging output
+dist/
+
+# Runtime artefacts and secrets
+.env
+*.db
+*.db-shm
+*.db-wal
+*.log
+website/data/
